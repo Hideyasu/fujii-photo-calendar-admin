@@ -42,5 +42,10 @@
 		"vite": "^7.0.4",
 		"vitest": "^3.2.3",
 		"vitest-browser-svelte": "^0.1.0"
+	},
+	"dependencies": {
+		"@skeletonlabs/skeleton": "^3.2.0",
+		"@skeletonlabs/tw-plugin": "^0.4.1",
+		"firebase": "^12.2.1"
 	}
 }
